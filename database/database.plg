@@ -1,0 +1,24 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: database - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\WILLJA~1\AppData\Local\Temp\RSP8E0A.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib sqlite3.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/database.pdb" /debug /machine:I386 /out:"Debug/database.exe" /pdbtype:sept 
+".\Debug\sqlitetest.obj"
+]
+Creating command line "link.exe @C:\Users\WILLJA~1\AppData\Local\Temp\RSP8E0A.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+database.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
